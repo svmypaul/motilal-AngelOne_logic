@@ -1,0 +1,129 @@
+[I 240326 10:24:47 trade:64] Smart-api login Successful
+[I 240326 10:24:50 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240326 10:25:19 modul:47] on open
+[I 240326 10:25:20 modul:37] Last Traded Price: 4661155
+[I 240326 10:25:22 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2600001ANKN0040'}
+[W 240326 10:25:23 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 10:25:32 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2600002ANKN0040'}
+[W 240326 10:25:33 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 10:25:39 modul:460] PlaceOrder : {'status': 'ERROR', 'message': 'Option Premium Exceeds The Set Limit', 'errorcode': '100021', 'uniqueorderid': '2600003ANKN0040'}
+[I 240326 10:25:39 trade:317] price: 43485 and  tigger price: 42985
+[W 240326 10:25:39 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 10:25:48 modul:460] PlaceOrder : {'status': 'ERROR', 'message': 'Option Premium Exceeds The Set Limit', 'errorcode': '100021', 'uniqueorderid': '2600004ANKN0040'}
+[I 240326 10:25:48 trade:331] price: 43485 and  tigger price: 42985
+[W 240326 10:25:49 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 10:28:40 trade:64] Smart-api login Successful
+[I 240326 10:28:42 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240326 10:30:01 modul:47] on open
+[I 240326 10:30:01 modul:37] Last Traded Price: 4669020
+[I 240326 10:30:05 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2600005ANKN0040'}
+[I 240326 12:57:41 3272107555:64] Smart-api login Successful
+[I 240326 12:57:43 3272107555:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240326 12:58:34 trade:64] Smart-api login Successful
+[I 240326 12:58:39 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240326 13:00:00 modul:47] on open
+[I 240326 13:00:00 modul:37] Last Traded Price: 4673225
+[I 240326 13:00:04 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600030ANKN1226'}
+[W 240326 13:00:04 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:00:11 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600031ANKN1226'}
+[W 240326 13:00:11 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:00:18 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600032ANKN1226'}
+[I 240326 13:00:18 trade:317] price: 37770 and  tigger price: 37270
+[W 240326 13:00:18 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:00:24 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600033ANKN1226'}
+[I 240326 13:00:24 trade:331] price: 37770 and  tigger price: 37270
+[W 240326 13:00:25 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:05:00 modul:47] on open
+[I 240326 13:05:00 modul:37] Last Traded Price: 4671840
+[I 240326 13:05:03 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600034ANKN1226'}
+[W 240326 13:05:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:05:11 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600035ANKN1226'}
+[W 240326 13:05:12 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:05:18 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600036ANKN1226'}
+[I 240326 13:05:18 trade:317] price: 37265 and  tigger price: 36765
+[W 240326 13:05:18 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:05:25 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600037ANKN1226'}
+[I 240326 13:05:25 trade:331] price: 37265 and  tigger price: 36765
+[W 240326 13:05:25 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:10:00 modul:47] on open
+[I 240326 13:10:00 modul:37] Last Traded Price: 4672810
+[I 240326 13:10:03 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600038ANKN1226'}
+[W 240326 13:10:04 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:10:11 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600039ANKN1226'}
+[W 240326 13:10:12 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:10:18 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600040ANKN1226'}
+[I 240326 13:10:18 trade:317] price: 37275 and  tigger price: 36775
+[W 240326 13:10:19 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:10:26 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600041ANKN1226'}
+[I 240326 13:10:26 trade:331] price: 37275 and  tigger price: 36775
+[W 240326 13:10:26 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:15:00 modul:47] on open
+[I 240326 13:15:00 modul:37] Last Traded Price: 4670940
+[I 240326 13:15:03 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600042ANKN1226'}
+[W 240326 13:15:04 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:15:10 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600043ANKN1226'}
+[W 240326 13:15:10 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:15:19 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600044ANKN1226'}
+[I 240326 13:15:19 trade:317] price: 37470 and  tigger price: 36970
+[W 240326 13:15:19 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:15:26 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600045ANKN1226'}
+[I 240326 13:15:26 trade:331] price: 37470 and  tigger price: 36970
+[W 240326 13:15:27 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:20:00 modul:47] on open
+[I 240326 13:20:00 modul:37] Last Traded Price: 4670980
+[I 240326 13:20:04 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600046ANKN1226'}
+[W 240326 13:20:04 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:20:10 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600047ANKN1226'}
+[I 240326 13:20:12 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600048ANKN1226'}
+[I 240326 13:20:12 trade:317] price: 37075 and  tigger price: 36575
+[W 240326 13:20:12 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:20:19 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600049ANKN1226'}
+[I 240326 13:20:19 trade:331] price: 37075 and  tigger price: 36575
+[W 240326 13:20:19 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:25:00 modul:47] on open
+[I 240326 13:25:00 modul:37] Last Traded Price: 4668990
+[I 240326 13:25:02 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600050ANKN1226'}
+[W 240326 13:25:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:25:09 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600051ANKN1226'}
+[W 240326 13:25:10 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:25:16 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600052ANKN1226'}
+[I 240326 13:25:16 trade:317] price: 38730 and  tigger price: 38230
+[W 240326 13:25:16 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:25:23 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600053ANKN1226'}
+[I 240326 13:25:23 trade:331] price: 38730 and  tigger price: 38230
+[W 240326 13:25:23 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:30:00 modul:47] on open
+[I 240326 13:30:00 modul:37] Last Traded Price: 4666475
+[I 240326 13:30:03 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600054ANKN1226'}
+[W 240326 13:30:04 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:30:11 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600055ANKN1226'}
+[W 240326 13:30:11 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:30:21 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600056ANKN1226'}
+[I 240326 13:30:21 trade:317] price: 37830 and  tigger price: 37330
+[W 240326 13:30:21 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:30:39 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600057ANKN1226'}
+[I 240326 13:30:39 trade:331] price: 37830 and  tigger price: 37330
+[I 240326 13:35:00 modul:47] on open
+[I 240326 13:35:00 modul:37] Last Traded Price: 4666760
+[I 240326 13:35:05 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600058ANKN1226'}
+[W 240326 13:35:06 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:35:12 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600059ANKN1226'}
+[I 240326 13:35:13 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600060ANKN1226'}
+[I 240326 13:35:13 trade:317] price: 37925 and  tigger price: 37425
+[W 240326 13:35:14 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:35:20 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600061ANKN1226'}
+[I 240326 13:35:20 trade:331] price: 37925 and  tigger price: 37425
+[W 240326 13:35:21 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:40:00 modul:47] on open
+[I 240326 13:40:00 modul:37] Last Traded Price: 4663820
+[I 240326 13:40:05 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600062ANKN1226'}
+[W 240326 13:40:06 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:40:15 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600063ANKN1226'}
+[W 240326 13:40:16 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:40:23 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600064ANKN1226'}
+[I 240326 13:40:23 trade:317] price: 37930 and  tigger price: 37430
+[W 240326 13:40:23 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240326 13:40:29 modul:460] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600065ANKN1226'}
+[I 240326 13:40:29 trade:331] price: 37930 and  tigger price: 37430
+[I 240326 13:50:19 3272107555:64] Smart-api login Successful
+[I 240326 13:50:20 3272107555:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS

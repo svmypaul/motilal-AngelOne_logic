@@ -1,0 +1,23 @@
+[E 240304 12:07:07 2739103001:55] Invalid Token: The provided token is not valid.
+[E 240304 12:07:37 trade:55] Invalid Token: The provided token is not valid.
+[I 240304 12:21:32 trade:64] Smart-api login Successful
+[E 240304 12:21:36 trade:108] Motilal login: ERROR Message: Invalid User Id Or Api Key
+[I 240304 12:22:33 trade:64] Smart-api login Successful
+[I 240304 12:22:34 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240304 12:25:03 modul:47] on open
+[I 240304 12:25:03 modul:37] Last Traded Price: 1098055
+[E 240304 12:25:03 trade:376] An error occurred: cannot convert float NaN to integer
+[I 240304 12:30:33 trade:64] Smart-api login Successful
+[I 240304 12:30:35 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240304 12:35:00 modul:47] on open
+[I 240304 12:35:00 modul:37] Last Traded Price: 1098485
+[I 240304 12:35:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '0400001ANKN0040'}
+[W 240304 12:35:02 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240304 12:35:09 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '0400002ANKN0040'}
+[W 240304 12:35:09 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240304 12:35:15 modul:457] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Order Type Input Parameter', 'errorcode': 'MO1053', 'uniqueorderid': ''}
+[I 240304 12:35:15 trade:317] price: 2985 and  tigger price: 2485
+[I 240304 12:35:16 modul:457] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Order Type Input Parameter', 'errorcode': 'MO1053', 'uniqueorderid': ''}
+[I 240304 12:35:16 trade:331] price: 2985 and  tigger price: 2485
+[I 240304 16:26:24 trade:64] Smart-api login Successful
+[I 240304 16:26:25 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS

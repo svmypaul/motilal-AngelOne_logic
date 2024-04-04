@@ -1,0 +1,36 @@
+[I 240223 09:49:28 trade:60] Smart-api login Successful
+[E 240223 09:49:51 trade:108] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001EA4B6411C0>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[E 240223 09:50:50 3724177569:5] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001EA512C4EC0>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[I 240223 10:01:52 smartConnect:113] in pool
+[I 240223 10:01:54 4245406403:60] Smart-api login Successful
+[I 240223 10:01:55 4245406403:102] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240223 10:06:27 smartConnect:113] in pool
+[I 240223 10:06:29 trade:60] Smart-api login Successful
+[I 240223 10:06:31 trade:102] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240223 11:03:15 smartConnect:113] in pool
+[I 240223 11:03:17 3195131088:64] Smart-api login Successful
+[I 240223 11:03:19 3195131088:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240223 11:14:59 smartConnect:113] in pool
+[I 240223 11:15:11 575551946:64] Smart-api login Successful
+[I 240223 11:15:13 575551946:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240223 11:15:57 smartConnect:113] in pool
+[I 240223 11:15:59 trade:64] Smart-api login Successful
+[I 240223 11:16:01 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240223 11:20:00 modul:47] on open
+[I 240223 11:20:00 modul:37] Last Traded Price: 7323812
+[I 240223 11:20:04 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2300001ANKN0040'}
+[I 240223 11:25:00 modul:47] on open
+[I 240223 11:25:00 modul:37] Last Traded Price: 7328288
+[I 240223 11:25:05 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2300003ANKN0040'}
+[I 240223 11:30:00 modul:47] on open
+[I 240223 11:30:00 modul:37] Last Traded Price: 7327065
+[E 240223 11:30:13 trade:375] An error occurred: 'set' object is not subscriptable
+[I 240223 11:35:01 modul:47] on open
+[I 240223 11:35:01 modul:37] Last Traded Price: 7327529
+[I 240223 11:35:05 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2300005ANKN0040'}
+[I 240223 11:40:00 modul:47] on open
+[I 240223 11:40:00 modul:37] Last Traded Price: 7327679
+[I 240223 11:40:06 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2300007ANKN0040'}
+[I 240223 11:45:00 modul:47] on open
+[I 240223 11:45:00 modul:37] Last Traded Price: 7328253
+[I 240223 11:45:05 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2300009ANKN0040'}

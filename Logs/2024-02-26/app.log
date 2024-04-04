@@ -1,0 +1,12 @@
+[I 240226 11:59:39 trade:64] Smart-api login Successful
+[I 240226 11:59:40 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240226 12:00:21 modul:47] on open
+[I 240226 12:00:21 modul:37] Last Traded Price: 1088120
+[I 240226 12:00:23 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600056ANKN1226'}
+[W 240226 12:00:24 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240226 12:00:30 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2600057ANKN1226'}
+[W 240226 12:00:31 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240226 12:00:37 modul:457] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Order Type Input Parameter', 'errorcode': 'MO1053', 'uniqueorderid': ''}
+[I 240226 12:00:37 trade:317] price: 5700 and  tigger price: 5200
+[I 240226 12:00:37 modul:457] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Order Type Input Parameter', 'errorcode': 'MO1053', 'uniqueorderid': ''}
+[I 240226 12:00:37 trade:331] price: 5700 and  tigger price: 5200

@@ -1,0 +1,31 @@
+[I 240318 09:59:19 trade:64] Smart-api login Successful
+[I 240318 09:59:23 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240318 10:00:00 modul:47] on open
+[I 240318 10:00:00 modul:37] Last Traded Price: 4652735
+[I 240318 10:00:03 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '1800001ANKN0040'}
+[W 240318 10:00:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240318 10:02:28 3616454742:64] Smart-api login Successful
+[E 240318 10:02:31 3616454742:108] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[E 240318 10:06:20 555442987:31] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[E 240318 10:07:00 2258421992:31] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[I 240318 10:10:02 1190661584:29] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240318 10:10:56 trade:64] Smart-api login Successful
+[E 240318 10:10:59 trade:108] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[E 240318 10:11:16 2747205565:8] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[E 240318 10:11:22 2747205565:8] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[E 240318 10:11:29 2747205565:8] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[I 240318 10:11:45 2954154054:25] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240318 10:11:53 trade:64] Smart-api login Successful
+[I 240318 10:11:54 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240318 10:15:00 modul:47] on open
+[I 240318 10:15:01 modul:37] Last Traded Price: 4638690
+[I 240318 10:15:04 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Difference between limit price and trigger price is beyond permissible range', 'errorcode': '16448', 'uniqueorderid': '1800015ANKN1226'}
+[W 240318 10:15:04 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240318 10:15:10 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Difference between limit price and trigger price is beyond permissible range', 'errorcode': '16448', 'uniqueorderid': '1800016ANKN1226'}
+[W 240318 10:15:11 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240318 10:15:17 trade:317] price: 64655 and  tigger price: 64155
+[I 240318 10:15:17 trade:331] price: 64655 and  tigger price: 64155
+[I 240318 10:34:20 modul:47] on open
+[I 240318 10:34:20 modul:37] Last Traded Price: 4644065
+[I 240318 10:34:24 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Difference between limit price and trigger price is beyond permissible range', 'errorcode': '16448', 'uniqueorderid': '1800019ANKN1226'}
+[W 240318 10:34:25 modul:292] Get details failed: 'NoneType' object is not subscriptable

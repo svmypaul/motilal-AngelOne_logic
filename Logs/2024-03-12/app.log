@@ -1,0 +1,56 @@
+[I 240312 11:23:54 trade:64] Smart-api login Successful
+[E 240312 11:24:17 trade:108] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D542AFAC0>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[I 240312 11:24:27 trade:64] Smart-api login Successful
+[E 240312 11:24:50 trade:108] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D540B5C00>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[I 240312 11:25:20 modul:47] on open
+[I 240312 11:25:20 modul:37] Last Traded Price: 2088100
+[E 240312 11:25:20 trade:376] An error occurred: cannot convert float NaN to integer
+[E 240312 11:26:46 137615507:31] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240312 11:27:17 137615507:31] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D51BEEA70>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[E 240312 11:58:58 137615507:31] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D51BED990>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[E 240312 12:42:18 137615507:31] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D51BEE440>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[I 240312 12:49:31 trade:64] Smart-api login Successful
+[E 240312 12:49:55 trade:108] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018D539E8E50>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[I 240312 12:50:08 trade:64] Smart-api login Successful
+[I 240312 12:50:09 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240312 12:50:42 modul:47] on open
+[I 240312 12:50:42 modul:37] Last Traded Price: 2088720
+[E 240312 12:50:42 trade:376] An error occurred: cannot convert float NaN to integer
+[I 240312 12:53:14 trade:64] Smart-api login Successful
+[I 240312 12:53:16 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240312 12:55:00 modul:47] on open
+[I 240312 12:55:00 modul:37] Last Traded Price: 2090260
+[E 240312 12:55:00 trade:376] An error occurred: cannot convert float NaN to integer
+[I 240312 13:03:19 trade:64] Smart-api login Successful
+[I 240312 13:03:21 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240312 13:03:38 trade:64] Smart-api login Successful
+[I 240312 13:03:43 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240312 13:05:38 modul:47] on open
+[I 240312 13:05:38 modul:37] Last Traded Price: 2233815
+[I 240312 13:05:40 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '1200001ANKN0040'}
+[W 240312 13:05:41 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240312 13:10:00 modul:47] on open
+[I 240312 13:10:00 modul:37] Last Traded Price: 2235955
+[I 240312 13:10:09 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '1200002ANKN0040'}
+[E 240312 13:15:22 modul:57] Connection closed
+[W 240312 13:15:22 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[E 240312 13:15:22 modul:57] Connection closed
+[W 240312 13:15:22 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[E 240312 13:15:22 trade:376] An error occurred: list index out of range
+[E 240312 13:24:31 3408065890:31] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001DD81719090>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[E 240312 13:26:15 3408065890:31] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240312 13:28:24 1463156800:29] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240312 13:34:46 trade:64] Smart-api login Successful
+[I 240312 13:34:52 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240312 13:35:14 modul:47] on open
+[I 240312 13:35:14 modul:37] Last Traded Price: 2238555
+[I 240312 13:35:16 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '1200057ANKN1226'}
+[W 240312 13:35:17 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240312 13:35:23 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '1200058ANKN1226'}
+[W 240312 13:35:23 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[E 240312 13:35:30 modul:471] Order placement failed: 'uniqueorderid'
+[E 240312 13:35:34 modul:471] Order placement failed: 'uniqueorderid'
+[E 240312 13:35:38 modul:471] Order placement failed: 'uniqueorderid'
+[E 240312 13:38:10 3408065890:31] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000263464F2890>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[I 240312 13:40:14 1463156800:29] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[E 240312 14:38:05 3408065890:31] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000026343A11240>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))

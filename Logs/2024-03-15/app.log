@@ -1,0 +1,11 @@
+[I 240315 11:25:57 2258494251:64] Smart-api login Successful
+[I 240315 11:25:59 2258494251:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240315 11:37:11 trade:64] Smart-api login Successful
+[I 240315 11:37:12 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240315 11:40:00 modul:47] on open
+[I 240315 11:40:00 modul:37] Last Traded Price: 7260013
+[I 240315 11:40:03 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Validation Error', 'errorcode': '210', 'uniqueorderid': '1500054ANKN1226'}
+[W 240315 11:40:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240315 11:40:09 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Validation Error', 'errorcode': '210', 'uniqueorderid': '1500055ANKN1226'}
+[W 240315 11:40:10 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240315 11:40:42 3862193223:2] Motilal login: SUCCESS Message: Return Auth Token SUCCESS

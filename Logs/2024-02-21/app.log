@@ -1,0 +1,11 @@
+[I 240221 11:45:02 211665792:56] Smart-api login Successful
+[I 240221 11:45:04 211665792:96] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240221 11:53:12 modul:47] on open
+[I 240221 11:53:12 modul:37] Last Traded Price: 4711840
+[I 240221 11:56:38 smartConnect:113] in pool
+[I 240221 11:56:40 1001407356:60] Smart-api login Successful
+[I 240221 11:56:42 1001407356:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240221 11:58:13 modul:47] on open
+[I 240221 11:58:13 modul:37] Last Traded Price: 4713410
+[E 240221 14:50:20 479536374:29] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000017EFA929C40>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[I 240221 15:17:29 4084034660:27] Motilal login: SUCCESS Message: Return Auth Token SUCCESS

@@ -1,0 +1,138 @@
+[I 240322 13:06:17 2712679867:64] Smart-api login Successful
+[I 240322 13:06:19 2712679867:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:02:16 1272833016:64] Smart-api login Successful
+[I 240322 14:02:19 1272833016:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:04:43 3723542177:29] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:06:23 trade:64] Smart-api login Successful
+[I 240322 14:06:25 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:10:00 modul:47] on open
+[I 240322 14:10:00 modul:37] Last Traded Price: 7284290
+[I 240322 14:10:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200001ANKN0040'}
+[W 240322 14:10:02 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 14:13:46 trade:64] Smart-api login Successful
+[I 240322 14:13:50 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:15:00 modul:47] on open
+[I 240322 14:15:00 modul:37] Last Traded Price: 4686680
+[I 240322 14:15:03 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200002ANKN0040'}
+[W 240322 14:15:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 14:15:11 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200003ANKN0040'}
+[W 240322 14:15:12 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[E 240322 14:15:18 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:15:21 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:15:23 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:15:26 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:15:29 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:15:31 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:15:34 modul:463] Order placement failed: 'uniqueorderid'
+[I 240322 14:18:41 2714589793:64] Smart-api login Successful
+[I 240322 14:18:44 2714589793:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:19:15 trade:64] Smart-api login Successful
+[I 240322 14:19:19 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:20:00 modul:47] on open
+[I 240322 14:20:00 modul:37] Last Traded Price: 4687485
+[I 240322 14:20:04 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2200061ANKN1226'}
+[I 240322 14:20:05 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '2200062ANKN1226'}
+[W 240322 14:20:06 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[E 240322 14:20:12 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:14 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:17 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:19 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:22 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:24 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:27 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:30 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:33 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:35 modul:463] Order placement failed: 'uniqueorderid'
+[I 240322 14:20:37 trade:317] price: 58270 and  tigger price: 57770
+[E 240322 14:20:37 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:40 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:42 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:45 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:47 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:50 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:55 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:20:58 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:21:00 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:21:03 modul:463] Order placement failed: 'uniqueorderid'
+[I 240322 14:21:05 trade:331] price: 58270 and  tigger price: 57770
+[I 240322 14:27:09 trade:64] Smart-api login Successful
+[I 240322 14:27:12 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:29:33 trade:64] Smart-api login Successful
+[I 240322 14:29:44 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:30:01 modul:47] on open
+[I 240322 14:30:01 modul:37] Last Traded Price: 4689020
+[I 240322 14:30:04 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200004ANKN0040'}
+[W 240322 14:30:04 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 14:30:10 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200005ANKN0040'}
+[W 240322 14:30:11 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[E 240322 14:30:17 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:30:19 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:30:22 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:30:24 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:30:27 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:30:29 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:30:53 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:30:56 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:30:58 modul:463] Order placement failed: 'uniqueorderid'
+[E 240322 14:31:01 modul:463] Order placement failed: 'uniqueorderid'
+[I 240322 14:33:51 modul:460] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Input Parameter', 'errorcode': 'MO1050', 'data': None}
+[I 240322 14:49:11 trade:64] Smart-api login Successful
+[I 240322 14:49:15 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:50:00 modul:47] on open
+[I 240322 14:50:00 modul:37] Last Traded Price: 4690560
+[I 240322 14:50:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200008ANKN0040'}
+[W 240322 14:50:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 14:50:10 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200009ANKN0040'}
+[W 240322 14:50:10 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 14:50:16 modul:460] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Product Type Parameter', 'errorcode': 'MO1057', 'uniqueorderid': ''}
+[I 240322 14:50:16 trade:317] price: 54965 and  tigger price: 54465
+[W 240322 14:50:17 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[W 240322 14:50:23 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[W 240322 14:50:29 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[W 240322 14:50:34 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[W 240322 14:50:41 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[W 240322 14:50:48 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 14:51:22 trade:64] Smart-api login Successful
+[E 240322 14:51:28 trade:108] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[I 240322 14:51:35 trade:64] Smart-api login Successful
+[I 240322 14:51:40 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 14:55:00 modul:47] on open
+[I 240322 14:55:00 modul:37] Last Traded Price: 4689615
+[I 240322 14:55:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200010ANKN0040'}
+[W 240322 14:55:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 14:55:11 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200011ANKN0040'}
+[W 240322 14:55:12 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 14:55:18 modul:460] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Product Type Parameter', 'errorcode': 'MO1057', 'uniqueorderid': ''}
+[I 240322 14:55:18 trade:317] price: 56040 and  tigger price: 55540
+[I 240322 14:55:19 modul:460] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Product Type Parameter', 'errorcode': 'MO1057', 'uniqueorderid': ''}
+[I 240322 14:55:19 trade:331] price: 56040 and  tigger price: 55540
+[I 240322 15:00:23 trade:64] Smart-api login Successful
+[E 240322 15:00:26 trade:108] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[I 240322 15:00:32 trade:64] Smart-api login Successful
+[I 240322 15:00:35 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 15:00:56 modul:47] on open
+[I 240322 15:00:56 modul:37] Last Traded Price: 4690535
+[I 240322 15:00:59 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200013ANKN0040'}
+[W 240322 15:01:00 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 15:01:09 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200014ANKN0040'}
+[W 240322 15:01:09 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 15:01:17 modul:460] PlaceOrder : {'status': 'ERROR', 'message': 'Option Premium Exceeds The Set Limit', 'errorcode': '100021', 'uniqueorderid': '2200015ANKN0040'}
+[I 240322 15:01:17 trade:317] price: 53250 and  tigger price: 52750
+[W 240322 15:01:18 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 15:01:26 modul:460] PlaceOrder : {'status': 'ERROR', 'message': 'Option Premium Exceeds The Set Limit', 'errorcode': '100021', 'uniqueorderid': '2200016ANKN0040'}
+[I 240322 15:01:26 trade:331] price: 53250 and  tigger price: 52750
+[W 240322 15:01:27 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 15:04:10 trade:64] Smart-api login Successful
+[I 240322 15:04:11 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240322 15:05:00 modul:47] on open
+[I 240322 15:05:00 modul:37] Last Traded Price: 4688910
+[I 240322 15:05:03 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200017ANKN0040'}
+[W 240322 15:05:04 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 15:05:11 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200018ANKN0040'}
+[W 240322 15:05:11 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 15:05:19 modul:460] PlaceOrder : {'status': 'ERROR', 'message': 'Option Premium Exceeds The Set Limit', 'errorcode': '100021', 'uniqueorderid': '2200019ANKN0040'}
+[I 240322 15:05:19 trade:317] price: 54965 and  tigger price: 54465
+[W 240322 15:05:19 modul:325] Get details failed: 'NoneType' object is not subscriptable
+[I 240322 15:05:26 modul:460] PlaceOrder : {'status': 'ERROR', 'message': 'Option Premium Exceeds The Set Limit', 'errorcode': '100021', 'uniqueorderid': '2200020ANKN0040'}
+[I 240322 15:05:26 trade:331] price: 54965 and  tigger price: 54465
+[W 240322 15:05:27 modul:325] Get details failed: 'NoneType' object is not subscriptable

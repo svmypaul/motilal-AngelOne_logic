@@ -1,0 +1,11 @@
+[I 240306 09:43:50 trade:64] Smart-api login Successful
+[I 240306 09:43:51 trade:105] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240306 09:45:00 modul:47] on open
+[I 240306 09:45:00 modul:37] Last Traded Price: 4785890
+[E 240306 09:45:00 trade:375] An error occurred: cannot convert float NaN to integer
+[I 240306 12:49:25 trade:64] Smart-api login Successful
+[I 240306 12:49:29 trade:105] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240306 12:50:00 modul:47] on open
+[I 240306 12:50:00 modul:37] Last Traded Price: 4805280
+[I 240306 12:50:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '0600001ANKN0040'}
+[W 240306 12:50:02 modul:292] Get details failed: 'NoneType' object is not subscriptable

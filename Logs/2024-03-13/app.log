@@ -1,0 +1,44 @@
+[I 240313 10:50:26 trade:64] Smart-api login Successful
+[E 240313 10:50:50 trade:108] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000160F9A2A650>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[I 240313 10:51:13 trade:64] Smart-api login Successful
+[E 240313 10:51:20 trade:108] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240313 10:54:43 trade:64] Smart-api login Successful
+[I 240313 10:54:48 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240313 10:55:17 modul:47] on open
+[I 240313 10:55:17 modul:37] Last Traded Price: 4728270
+[I 240313 10:55:19 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '1300001ANKN0040'}
+[W 240313 10:55:19 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240313 11:17:40 trade:64] Smart-api login Successful
+[I 240313 11:17:41 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240313 11:20:00 modul:47] on open
+[I 240313 11:20:00 modul:37] Last Traded Price: 4724060
+[I 240313 11:20:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '1300003ANKN0040'}
+[W 240313 11:20:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240313 11:25:00 modul:47] on open
+[I 240313 11:25:00 modul:37] Last Traded Price: 4708865
+[I 240313 11:25:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '1300004ANKN0040'}
+[W 240313 11:25:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240313 11:30:01 modul:47] on open
+[I 240313 11:30:01 modul:37] Last Traded Price: 4709300
+[I 240313 11:30:03 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '1300005ANKN0040'}
+[W 240313 11:30:04 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240313 11:35:00 modul:47] on open
+[I 240313 11:35:00 modul:37] Last Traded Price: 4712930
+[I 240313 11:35:03 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '1300006ANKN0040'}
+[W 240313 11:35:04 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240313 11:40:02 modul:47] on open
+[I 240313 11:40:03 modul:37] Last Traded Price: 4710155
+[I 240313 11:40:05 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '1300007ANKN0040'}
+[W 240313 11:40:06 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[E 240313 11:45:00 modul:57] Connection closed
+[W 240313 11:45:00 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[E 240313 11:45:00 modul:57] Connection closed
+[W 240313 11:45:00 smartWebSocketV2:343] Connection closed due to max retry attempts reached.
+[E 240313 11:45:00 trade:376] An error occurred: list index out of range
+[I 240313 16:52:30 trade:64] Smart-api login Successful
+[I 240313 16:52:31 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240313 16:53:40 trade:64] Smart-api login Successful
+[I 240313 16:53:41 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240313 16:55:00 modul:47] on open
+[I 240313 16:55:00 modul:37] Last Traded Price: 4698130
+[I 240313 16:55:07 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Response Receive Failed Due to Some Network Issue', 'errorcode': 'MO5002', 'uniqueorderid': ''}

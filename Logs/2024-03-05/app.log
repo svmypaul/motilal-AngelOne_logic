@@ -1,0 +1,60 @@
+[I 240305 09:21:55 trade:64] Smart-api login Successful
+[I 240305 09:21:57 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240305 09:25:35 trade:64] Smart-api login Successful
+[I 240305 09:25:37 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240305 09:25:51 modul:47] on open
+[I 240305 09:25:51 modul:37] Last Traded Price: 2085940
+[I 240305 09:25:53 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '0500001ANKN0040'}
+[W 240305 09:25:53 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240305 09:25:59 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '0500002ANKN0040'}
+[W 240305 09:26:00 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[E 240305 09:26:06 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:26:09 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:26:11 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:26:14 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:26:16 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:26:19 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:26:21 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:26:24 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:26:26 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:26:29 modul:471] Order placement failed: 'uniqueorderid'
+[I 240305 09:26:31 trade:317] price: 9715 and  tigger price: 9215
+[I 240305 09:28:02 trade:64] Smart-api login Successful
+[I 240305 09:28:03 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240305 09:30:00 modul:47] on open
+[I 240305 09:30:00 modul:37] Last Traded Price: 2085265
+[I 240305 09:30:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '0500003ANKN0040'}
+[W 240305 09:30:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240305 09:30:09 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '0500004ANKN0040'}
+[W 240305 09:30:10 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[E 240305 09:30:17 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:30:21 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:30:24 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:30:28 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:30:32 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:30:35 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:30:39 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 09:30:43 modul:471] Order placement failed: 'uniqueorderid'
+[I 240305 09:32:27 trade:64] Smart-api login Successful
+[I 240305 09:32:28 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240305 09:40:13 trade:64] Smart-api login Successful
+[I 240305 09:40:15 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240305 09:40:42 modul:47] on open
+[I 240305 09:40:42 modul:37] Last Traded Price: 2086760
+[I 240305 09:40:44 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '0500005ANKN0040'}
+[W 240305 09:40:44 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[E 240305 09:51:02 3724177569:5] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FD2D90C340>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[I 240305 12:33:28 trade:64] Smart-api login Successful
+[E 240305 12:33:30 trade:107] Motilal login: ERROR Message: Invalid UserId Or Password
+[I 240305 12:38:17 553974323:28] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240305 12:40:00 modul:47] on open
+[I 240305 12:40:00 modul:37] Last Traded Price: 2084970
+[I 240305 12:40:02 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0500021ANKN1226'}
+[W 240305 12:40:02 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240305 12:40:08 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0500022ANKN1226'}
+[W 240305 12:40:09 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[E 240305 12:40:16 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 12:40:19 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 12:40:23 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 12:40:27 modul:471] Order placement failed: 'uniqueorderid'
+[E 240305 12:40:30 modul:471] Order placement failed: 'uniqueorderid'

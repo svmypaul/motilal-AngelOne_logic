@@ -1,0 +1,85 @@
+[I 240311 10:44:09 trade:64] Smart-api login Successful
+[I 240311 10:44:11 trade:105] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 10:45:00 modul:47] on open
+[I 240311 10:45:00 modul:37] Last Traded Price: 1086825
+[E 240311 10:45:00 trade:375] An error occurred: cannot convert float NaN to integer
+[I 240311 10:49:29 trade:64] Smart-api login Successful
+[E 240311 10:49:47 trade:107] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[I 240311 10:50:04 modul:47] on open
+[I 240311 10:50:04 modul:37] Last Traded Price: 1086665
+[E 240311 10:50:04 trade:375] An error occurred: 'NoneType' object is not subscriptable
+[I 240311 10:52:54 modul:47] on open
+[I 240311 10:52:55 modul:37] Last Traded Price: 1087310
+[E 240311 11:22:50 185491510:30] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[I 240311 11:23:24 2236544520:28] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 11:25:03 trade:64] Smart-api login Successful
+[I 240311 11:25:04 trade:105] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 11:25:31 modul:47] on open
+[I 240311 11:25:31 modul:37] Last Traded Price: 1087290
+[I 240311 11:25:33 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '1100024ANKN1226'}
+[W 240311 11:25:34 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240311 11:25:40 modul:391] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '1100025ANKN1226'}
+[W 240311 11:25:40 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[E 240311 11:25:48 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:25:51 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:25:55 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:25:58 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:02 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:06 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:09 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:13 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:16 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:20 modul:471] Order placement failed: 'uniqueorderid'
+[I 240311 11:26:22 trade:316] price: 2565 and  tigger price: 2065
+[E 240311 11:26:24 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:27 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:31 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:34 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:38 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:42 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:45 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:49 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:52 modul:471] Order placement failed: 'uniqueorderid'
+[E 240311 11:26:56 modul:471] Order placement failed: 'uniqueorderid'
+[I 240311 11:26:58 trade:330] price: 2565 and  tigger price: 2065
+[I 240311 11:27:51 1106604350:64] Smart-api login Successful
+[I 240311 11:27:55 1106604350:105] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[W 240311 11:37:10 3518821665:26] Get details failed: name 'moti_output_convert' is not defined
+[W 240311 11:37:15 3518821665:26] Get details failed: name 'moti_output_convert' is not defined
+[I 240311 11:54:29 trade:64] Smart-api login Successful
+[E 240311 11:54:36 trade:107] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240311 11:55:03 3907381787:30] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240311 11:55:11 3907381787:28] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 11:55:21 trade:64] Smart-api login Successful
+[I 240311 11:55:26 trade:105] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 12:53:15 trade:64] Smart-api login Successful
+[I 240311 12:53:34 trade:64] Smart-api login Successful
+[I 240311 12:53:40 trade:105] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 12:55:00 modul:47] on open
+[I 240311 12:55:00 modul:37] Last Traded Price: 1087050
+[I 240311 12:55:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '1100001ANKN0040'}
+[W 240311 12:55:02 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240311 16:56:16 trade:64] Smart-api login Successful
+[I 240311 16:56:18 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 16:57:07 trade:64] Smart-api login Successful
+[I 240311 16:57:09 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[E 240311 16:59:10 trade:55] Invalid Token: The provided token is not valid.
+[I 240311 16:59:21 trade:64] Smart-api login Successful
+[I 240311 16:59:24 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 17:00:00 modul:47] on open
+[I 240311 17:00:00 modul:37] Last Traded Price: 1085145
+[I 240311 17:00:07 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Response Receive Failed Due to Some Network Issue', 'errorcode': 'MO5002', 'uniqueorderid': ''}
+[I 240311 17:05:00 modul:47] on open
+[I 240311 17:05:00 modul:37] Last Traded Price: 1085145
+[I 240311 17:05:07 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Response Receive Failed Due to Some Network Issue', 'errorcode': 'MO5002', 'uniqueorderid': ''}
+[I 240311 17:10:00 modul:47] on open
+[I 240311 17:10:00 modul:37] Last Traded Price: 1085145
+[E 240311 17:10:00 trade:376] An error occurred: 'set' object is not subscriptable
+[E 240311 17:11:09 608244987:31] Motilal login: FAILED Message: Expecting value: line 1 column 1 (char 0)
+[E 240311 17:11:17 608244987:31] Motilal login: FAILED Message: Expecting value: line 1 column 1 (char 0)
+[E 240311 17:11:48 608244987:31] Motilal login: FAILED Message: Expecting value: line 1 column 1 (char 0)
+[I 240311 17:15:00 trade:64] Smart-api login Successful
+[I 240311 17:15:04 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 17:15:16 608244987:29] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 17:27:36 3154644507:29] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240311 17:28:28 608244987:29] Motilal login: SUCCESS Message: Return Auth Token SUCCESS

@@ -1,0 +1,67 @@
+{'exchange': 'NSEFO',
+ 'clientcode': 'ANKN1226',
+ 'productname': 'NORMAL',
+ 'symboltoken': 35608,
+ 'symbol': 'MIDCPNIFTY 26-Feb-2024 CE 10950',
+ 'buyquantity': 1950,
+ 'buyamount': 37661.25,
+ 'sellquantity': 1950,
+ 'sellamount': 59808.75,
+ 'daybuyquantity': 1950,
+ 'daybuyamount': 37661.25,
+ 'daysellquantity': 1950,
+ 'daysellamount': 59808.75,
+ 'LTP': 5.5,
+ 'marktomarket': 0,
+ 'bookedprofitloss': 22147.5,
+ 'cfbuyquantity': 0,
+ 'cfbuyamount': 0,
+ 'cfsellquantity': 0,
+ 'cfsellamount': 0,
+ 'actualbookedprofitloss': 22147.5,
+ 'actualmarktomarket': 0,
+ 'series': 'CE',
+ 'expirydate': '26-Feb-2024',
+ 'strikeprice': 10950,
+ 'optiontype': 'CE'}
+
+
+print(Mofsl.GetPosition(clientcode)['data'][0])
+
+
+{'exchange': 'NSEFO',
+ 'clientcode': 'ANKN1226',
+ 'productname': 'NORMAL',
+ 'symboltoken': 42451,
+ 'symbol': 'MIDCPNIFTY 26-Feb-2024 PE 10825',
+ 'buyquantity': 0,
+ 'buyamount': 0,
+ 'sellquantity': 1500,
+ 'sellamount': 15750,
+ 'daybuyquantity': 0,
+ 'daybuyamount': 0,
+ 'daysellquantity': 750,
+ 'daysellamount': 13500,
+ 'LTP': 16.35,
+ 'marktomarket': -12150.0005722,
+ 'bookedprofitloss': 0,
+ 'cfbuyquantity': 0,
+ 'cfbuyamount': 0,
+ 'cfsellquantity': 750,
+ 'cfsellamount': 5173.95,
+ 'actualbookedprofitloss': 0,
+ 'actualmarktomarket': 0,
+ 'series': 'PE',
+ 'expirydate': '26-Feb-2024',
+ 'strikeprice': 10825,
+ 'optiontype': 'PE'}
+
+
+
+
+
+
+
+
+
+

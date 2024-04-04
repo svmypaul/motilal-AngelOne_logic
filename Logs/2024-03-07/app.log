@@ -1,0 +1,17 @@
+[I 240307 14:36:10 trade:64] Smart-api login Successful
+[E 240307 14:36:16 trade:107] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240307 14:37:00 464239082:24] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240307 14:37:06 trade:64] Smart-api login Successful
+[E 240307 14:37:12 trade:107] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240307 14:37:27 464239082:26] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240307 14:37:39 464239082:26] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240307 14:38:03 109691675:28] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240307 14:45:00 modul:47] on open
+[I 240307 14:45:00 modul:37] Last Traded Price: 2248620
+[E 240307 14:45:00 4050118474:258] An error occurred: cannot convert float NaN to integer
+[I 240307 14:45:48 trade:64] Smart-api login Successful
+[I 240307 14:45:51 trade:105] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240307 14:50:00 modul:47] on open
+[I 240307 14:50:00 modul:37] Last Traded Price: 2249970
+[I 240307 14:50:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '0700001ANKN0040'}
+[W 240307 14:50:02 modul:292] Get details failed: 'NoneType' object is not subscriptable

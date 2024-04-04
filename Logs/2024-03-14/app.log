@@ -1,0 +1,36 @@
+[I 240314 11:26:56 trade:64] Smart-api login Successful
+[E 240314 11:27:20 trade:108] Motilal login: FAILED Message: HTTPSConnectionPool(host='uatopenapi.motilaloswal.com', port=443): Max retries exceeded with url: /rest/login/v4/authdirectapi (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002210B2C4040>, 'Connection to uatopenapi.motilaloswal.com timed out. (connect timeout=None)'))
+[I 240314 11:27:47 trade:64] Smart-api login Successful
+[I 240314 11:27:49 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240314 11:30:00 modul:47] on open
+[I 240314 11:30:00 modul:37] Last Traded Price: 2207855
+[E 240314 11:30:00 trade:376] An error occurred: cannot convert float NaN to integer
+[I 240314 11:33:15 trade:64] Smart-api login Successful
+[I 240314 11:33:17 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240314 11:35:00 modul:47] on open
+[I 240314 11:35:00 modul:37] Last Traded Price: 2214290
+[I 240314 11:35:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': '', 'errorcode': '100018', 'uniqueorderid': '1400001ANKN0040'}
+[W 240314 11:35:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240314 11:35:09 modul:391] PlaceOrder : {'status': 'ERROR', 'message': '', 'errorcode': '100018', 'uniqueorderid': '1400002ANKN0040'}
+[W 240314 11:35:09 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240314 11:35:15 trade:317] price: 7010 and  tigger price: 6510
+[I 240314 11:35:15 trade:331] price: 7010 and  tigger price: 6510
+[I 240314 11:40:00 modul:47] on open
+[I 240314 11:40:00 modul:37] Last Traded Price: 2214340
+[I 240314 11:40:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': '', 'errorcode': '100018', 'uniqueorderid': '1400003ANKN0040'}
+[W 240314 11:40:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240314 11:40:09 modul:391] PlaceOrder : {'status': 'ERROR', 'message': '', 'errorcode': '100018', 'uniqueorderid': '1400004ANKN0040'}
+[W 240314 11:40:10 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240314 11:40:16 trade:317] price: 7400 and  tigger price: 6900
+[I 240314 11:40:16 trade:331] price: 7400 and  tigger price: 6900
+[I 240314 11:51:57 1715355860:29] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240314 11:55:50 trade:64] Smart-api login Successful
+[I 240314 11:55:51 trade:106] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240314 12:00:00 modul:47] on open
+[I 240314 12:00:00 modul:37] Last Traded Price: 2217410
+[I 240314 12:00:02 modul:391] PlaceOrder : {'status': 'ERROR', 'message': '', 'errorcode': '16448', 'uniqueorderid': '1400062ANKN1226'}
+[W 240314 12:00:03 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240314 12:00:09 modul:391] PlaceOrder : {'status': 'ERROR', 'message': '', 'errorcode': '16448', 'uniqueorderid': '1400063ANKN1226'}
+[W 240314 12:00:10 modul:292] Get details failed: 'NoneType' object is not subscriptable
+[I 240314 12:00:15 trade:317] price: 7170 and  tigger price: 6670
+[I 240314 12:00:15 trade:331] price: 7170 and  tigger price: 6670

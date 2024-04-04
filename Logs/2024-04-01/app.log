@@ -1,0 +1,357 @@
+[I 240401 10:01:39 trade:64] Smart-api login Successful
+[I 240401 10:01:40 trade:138] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240401 10:05:01 modul:47] on open
+[I 240401 10:05:01 modul:37] Last Traded Price: 4753550
+[I 240401 10:05:04 modul:399] PlaceOrder : {'status': 'ERROR', 'message': '', 'errorcode': '100018', 'uniqueorderid': '0100001ANKN0040'}
+[W 240401 10:05:05 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 10:12:46 trade:64] Smart-api login Successful
+[I 240401 10:12:48 trade:138] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240401 10:15:00 modul:47] on open
+[I 240401 10:15:00 modul:37] Last Traded Price: 4754335
+[I 240401 10:15:03 modul:399] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100005ANKN1226'}
+[W 240401 10:15:03 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 10:15:10 modul:399] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100006ANKN1226'}
+[W 240401 10:15:10 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[E 240401 10:15:17 trade:425] An error occurred: float() argument must be a string or a real number, not 'NoneType'
+[I 240401 10:19:21 trade:64] Smart-api login Successful
+[E 240401 10:19:23 trade:140] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[I 240401 10:19:29 trade:64] Smart-api login Successful
+[E 240401 10:19:36 trade:140] Motilal login: ERROR Message: Invalid TOTP Value | Please Provide Correct TOTP
+[I 240401 10:19:42 trade:64] Smart-api login Successful
+[I 240401 10:19:46 trade:138] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240401 10:20:03 modul:47] on open
+[I 240401 10:20:03 modul:37] Last Traded Price: 4753930
+[I 240401 10:20:05 modul:399] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100007ANKN1226'}
+[W 240401 10:20:06 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 10:20:13 modul:399] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100008ANKN1226'}
+[W 240401 10:20:13 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 10:20:21 modul:468] PlaceOrder : {'status': 'ERROR', 'message': '', 'errorcode': '100055', 'uniqueorderid': '0100009ANKN1226'}
+[I 240401 10:20:21 trade:356] price: 983 and  tigger price: 483
+[W 240401 10:20:21 modul:333] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 10:20:29 modul:468] PlaceOrder : {'status': 'ERROR', 'message': '', 'errorcode': '100055', 'uniqueorderid': '0100010ANKN1226'}
+[I 240401 10:20:29 trade:370] price: 983 and  tigger price: 483
+[W 240401 10:20:29 modul:333] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 11:24:12 trade:64] Smart-api login Successful
+[E 240401 11:24:18 trade:140] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240401 11:24:26 trade:64] Smart-api login Successful
+[E 240401 11:24:35 trade:140] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240401 11:24:41 trade:64] Smart-api login Successful
+[E 240401 11:24:46 trade:140] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240401 11:24:51 trade:64] Smart-api login Successful
+[E 240401 11:24:53 trade:140] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240401 11:25:00 trade:64] Smart-api login Successful
+[E 240401 11:25:06 trade:140] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240401 11:25:18 trade:64] Smart-api login Successful
+[E 240401 11:25:21 trade:140] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240401 11:25:41 trade:64] Smart-api login Successful
+[E 240401 11:25:49 trade:140] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:27:22 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:27:26 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:27:30 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:27:33 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:27:37 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:27:40 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:27:45 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:27:50 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:27:58 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:28:12 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:28:18 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:29:52 2816771994:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:30:15 2720566784:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:30:19 2720566784:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 11:30:28 2720566784:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 12:02:43 2720566784:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 12:06:51 2720566784:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 12:07:16 2720566784:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 12:07:38 2720566784:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 12:20:50 2720566784:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 12:22:25 2872323810:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 12:27:42 2321094641:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 12:59:26 2720566784:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 13:00:34 2720566784:64] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240401 13:01:09 trade:64] Smart-api login Successful
+[E 240401 13:01:11 trade:140] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 13:02:21 2429568700:31] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[E 240401 13:02:50 377848218:32] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240401 13:06:46 trade:64] Smart-api login Successful
+[E 240401 13:06:54 trade:140] Motilal login: FAILED Message: 'NoneType' object is not subscriptable
+[I 240401 14:51:15 trade:64] Smart-api login Successful
+[I 240401 14:51:20 trade:138] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240401 14:55:00 modul:47] on open
+[I 240401 14:55:00 modul:37] Last Traded Price: 4753715
+[I 240401 14:55:03 modul:399] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100013ANKN1226'}
+[W 240401 14:55:04 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 14:55:11 modul:399] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100014ANKN1226'}
+[W 240401 14:55:11 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 14:55:18 modul:468] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100015ANKN1226'}
+[I 240401 14:55:18 trade:356] price: 42300 and  tigger price: 41800
+[I 240401 14:55:20 modul:468] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100016ANKN1226'}
+[I 240401 14:55:20 trade:370] price: 42300 and  tigger price: 41800
+[W 240401 14:55:20 modul:333] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 14:56:01 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:02 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:04 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:05 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:06 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:07 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:08 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:09 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:10 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:11 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:12 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:13 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:14 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:15 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:16 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:17 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:18 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:19 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:20 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:21 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:22 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:23 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:24 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:25 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:26 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:27 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:28 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:29 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:30 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:31 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:32 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:33 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:34 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:35 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:36 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:37 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:38 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:39 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:40 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:41 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:42 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:43 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:44 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:45 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:46 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:47 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:48 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:49 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:50 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:51 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:52 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:53 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:54 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:55 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:56 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:57 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:58 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:56:59 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:00 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:01 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:02 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:03 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:04 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:05 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:07 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:08 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:09 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:10 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:11 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:12 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:13 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:14 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:15 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:16 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:17 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:18 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:19 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:20 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:21 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:23 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:24 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:25 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:26 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:27 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:28 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:29 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:30 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:31 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:32 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:33 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:34 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:35 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:36 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:37 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:38 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:39 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:40 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:41 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:42 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:43 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:44 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:45 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:46 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:47 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:48 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:49 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:50 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:52 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:53 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:54 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:55 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:56 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:57 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:58 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:57:59 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:00 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:01 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:02 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:03 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:04 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:05 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:06 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:07 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:08 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:09 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:10 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:12 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:13 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:14 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:15 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:16 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:17 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:18 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:19 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:20 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:21 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:22 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:23 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:24 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:25 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:26 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:27 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:28 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:29 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:30 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:31 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:32 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:33 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:34 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:35 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:37 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:38 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:39 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:40 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:41 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:42 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:43 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:44 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:45 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:46 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:47 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:48 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:49 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:50 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:51 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:52 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:53 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:54 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:55 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:56 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:57 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:58 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:58:59 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:00 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:01 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:02 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:03 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:04 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:05 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:06 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:07 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:08 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:09 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:10 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:11 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:12 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:13 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:14 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:16 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:17 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:18 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:19 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:20 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:21 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:22 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:23 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:24 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:25 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:27 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:28 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:29 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:30 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:31 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:32 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:33 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:34 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:35 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:36 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:37 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:38 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:39 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:40 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:41 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:42 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:43 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:44 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:45 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:46 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:47 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:48 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:50 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:51 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:52 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:53 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:54 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:55 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:56 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:57 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:58 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 14:59:59 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:00:00 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:00:00 modul:47] on open
+[I 240401 15:00:00 modul:37] Last Traded Price: 4755370
+[I 240401 15:00:02 modul:399] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100017ANKN1226'}
+[W 240401 15:00:03 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 15:00:10 modul:399] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100018ANKN1226'}
+[W 240401 15:00:11 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 15:00:17 modul:468] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100019ANKN1226'}
+[I 240401 15:00:17 trade:356] price: 42345 and  tigger price: 41845
+[W 240401 15:00:18 modul:333] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 15:00:25 modul:468] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0100020ANKN1226'}
+[I 240401 15:00:25 trade:370] price: 42345 and  tigger price: 41845
+[W 240401 15:00:25 modul:333] Get details failed: 'NoneType' object is not subscriptable
+[I 240401 15:01:01 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:02 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:03 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:04 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:05 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:06 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:07 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:08 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:09 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:10 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:11 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:12 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:13 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:15 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:16 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:17 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:18 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[I 240401 15:01:19 trade:554] SL Status : trigger pending, Num SL Hits : 0
+[W 240401 15:09:17 modul:296] Get details failed: 'set' object is not subscriptable
+[W 240401 15:09:22 modul:296] Get details failed: 'set' object is not subscriptable
+[W 240401 15:09:28 modul:296] Get details failed: 'set' object is not subscriptable
+[W 240401 15:09:33 modul:296] Get details failed: 'set' object is not subscriptable
+[W 240401 15:09:40 modul:296] Get details failed: 'set' object is not subscriptable
+[W 240401 15:09:46 modul:296] Get details failed: 'set' object is not subscriptable

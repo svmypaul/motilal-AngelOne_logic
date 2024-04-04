@@ -1,0 +1,75 @@
+[I 240222 01:28:29 1001407356:60] Smart-api login Successful
+[I 240222 01:28:31 1001407356:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 01:29:35 modul:47] on open
+[I 240222 01:29:35 modul:37] Last Traded Price: 2205505
+[I 240222 01:35:41 smartConnect:113] in pool
+[I 240222 01:35:42 1001407356:60] Smart-api login Successful
+[I 240222 01:35:45 1001407356:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 01:36:38 modul:47] on open
+[I 240222 01:36:38 modul:37] Last Traded Price: 2205505
+[I 240222 01:39:26 smartConnect:113] in pool
+[I 240222 01:39:28 1001407356:60] Smart-api login Successful
+[I 240222 01:39:30 1001407356:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 10:02:01 1001407356:60] Smart-api login Successful
+[I 240222 10:02:03 1001407356:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 10:24:28 smartConnect:113] in pool
+[I 240222 10:24:30 trade:60] Smart-api login Successful
+[I 240222 10:24:33 trade:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 10:24:57 smartConnect:113] in pool
+[I 240222 10:24:59 trade:60] Smart-api login Successful
+[I 240222 10:25:01 trade:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 10:25:20 modul:47] on open
+[I 240222 10:25:20 modul:37] Last Traded Price: 2190885
+[W 240222 10:25:25 modul:292] Get details failed: MOFSLOPENAPI.GetTradeDetailByUniqueorderID() got an unexpected keyword argument 'uniqueorderid'
+[W 240222 10:25:30 modul:292] Get details failed: MOFSLOPENAPI.GetTradeDetailByUniqueorderID() got an unexpected keyword argument 'uniqueorderid'
+[W 240222 10:25:35 modul:292] Get details failed: MOFSLOPENAPI.GetTradeDetailByUniqueorderID() got an unexpected keyword argument 'uniqueorderid'
+[W 240222 10:25:40 modul:292] Get details failed: MOFSLOPENAPI.GetTradeDetailByUniqueorderID() got an unexpected keyword argument 'uniqueorderid'
+[W 240222 10:25:46 modul:292] Get details failed: MOFSLOPENAPI.GetTradeDetailByUniqueorderID() got an unexpected keyword argument 'uniqueorderid'
+[W 240222 10:27:16 modul:292] Get details failed: MOFSLOPENAPI.GetTradeDetailByUniqueorderID() got an unexpected keyword argument 'uniqueorderid'
+[W 240222 10:27:21 modul:292] Get details failed: MOFSLOPENAPI.GetTradeDetailByUniqueorderID() got an unexpected keyword argument 'uniqueorderid'
+[I 240222 10:41:37 trade:60] Smart-api login Successful
+[I 240222 10:41:40 trade:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 10:45:00 modul:47] on open
+[I 240222 10:45:00 modul:37] Last Traded Price: 2193385
+[E 240222 10:45:06 trade:356] An error occurred: place_order() got multiple values for argument 'broker'
+[I 240222 11:01:35 modul:47] on open
+[I 240222 11:01:35 modul:37] Last Traded Price: 2190380
+[I 240222 11:01:41 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200006ANKN0040'}
+[I 240222 11:02:13 smartConnect:113] in pool
+[I 240222 11:02:15 trade:60] Smart-api login Successful
+[I 240222 11:02:17 trade:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 11:05:45 trade:60] Smart-api login Successful
+[I 240222 11:05:47 trade:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 12:30:00 modul:47] on open
+[I 240222 12:30:00 modul:37] Last Traded Price: 2195460
+[I 240222 12:30:05 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200008ANKN0040'}
+[E 240222 12:30:06 1755272485:218] An error occurred: place_order() got multiple values for argument 'broker'
+[I 240222 12:48:18 trade:60] Smart-api login Successful
+[I 240222 12:48:21 trade:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 12:55:00 modul:47] on open
+[I 240222 12:55:00 modul:37] Last Traded Price: 2194545
+[I 240222 12:55:05 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200010ANKN0040'}
+[I 240222 12:55:09 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200012ANKN0040'}
+[I 240222 12:55:13 modul:455] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Order Type Input Parameter', 'errorcode': 'MO1053', 'uniqueorderid': ''}
+[I 240222 12:55:13 trade:297] price: 4625 and  tigger price: 4125
+[I 240222 12:55:15 modul:455] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Order Type Input Parameter', 'errorcode': 'MO1053', 'uniqueorderid': ''}
+[I 240222 12:55:15 trade:311] price: 4625 and  tigger price: 4125
+[I 240222 14:35:23 smartConnect:113] in pool
+[I 240222 14:35:25 trade:60] Smart-api login Successful
+[I 240222 14:35:27 trade:100] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240222 14:40:00 modul:47] on open
+[I 240222 14:40:00 modul:37] Last Traded Price: 2210035
+[I 240222 14:40:06 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200014ANKN0040'}
+[I 240222 14:40:09 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200016ANKN0040'}
+[I 240222 14:40:13 modul:455] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Order Type Input Parameter', 'errorcode': 'MO1053', 'uniqueorderid': ''}
+[I 240222 14:40:13 trade:297] price: 3725 and  tigger price: 3225
+[I 240222 14:40:16 modul:455] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Order Type Input Parameter', 'errorcode': 'MO1053', 'uniqueorderid': ''}
+[I 240222 14:40:16 trade:311] price: 3725 and  tigger price: 3225
+[I 240222 14:45:00 modul:47] on open
+[I 240222 14:45:00 modul:37] Last Traded Price: 2210875
+[I 240222 14:45:05 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200018ANKN0040'}
+[I 240222 14:45:09 modul:390] PlaceOrder : {'status': 'ERROR', 'message': 'Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '2200020ANKN0040'}
+[I 240222 14:45:14 modul:455] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Order Type Input Parameter', 'errorcode': 'MO1053', 'uniqueorderid': ''}
+[I 240222 14:45:14 trade:297] price: 3050 and  tigger price: 2550
+[I 240222 14:45:16 modul:455] PlaceOrder : {'status': 'ERROR', 'message': 'Invalid Order Type Input Parameter', 'errorcode': 'MO1053', 'uniqueorderid': ''}
+[I 240222 14:45:16 trade:311] price: 3050 and  tigger price: 2550

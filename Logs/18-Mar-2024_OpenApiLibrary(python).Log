@@ -1,0 +1,161 @@
+2024-03-18 09:59:19             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 09:59:20             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 09:59:20             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 09:59:20             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 09:59:20             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 09:59:23             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 09:59:23             SUCCESS             MOFSLOPENAPI.py             Login sucessfully
+2024-03-18 10:00:00             SUCCESS             MOFSLOPENAPI.py             Initilaize GetLtp request send
+2024-03-18 10:00:00             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:00:02             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:00:02             SUCCESS             MOFSLOPENAPI.py             GetLtp request sent Successfully
+2024-03-18 10:00:02             SUCCESS             MOFSLOPENAPI.py             Initilaize GetLtp request send
+2024-03-18 10:00:02             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:00:02             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:00:02             SUCCESS             MOFSLOPENAPI.py             GetLtp request sent Successfully
+2024-03-18 10:00:02             SUCCESS             MOFSLOPENAPI.py             Initilaize PlaceOrder request send
+2024-03-18 10:00:02             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:00:03             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:00:03             SUCCESS             MOFSLOPENAPI.py             PlaceOrder request sent Successfully
+2024-03-18 10:00:03             SUCCESS             MOFSLOPENAPI.py             Initilaize GetOrderDetailByUniqueorderID request send
+2024-03-18 10:00:03             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:00:03             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:00:03             SUCCESS             MOFSLOPENAPI.py             GetOrderDetailByUniqueorderID request sent Successfully
+2024-03-18 10:00:09             SUCCESS             MOFSLOPENAPI.py             Initilaize GetOrderDetailByUniqueorderID request send
+2024-03-18 10:00:09             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:00:10             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:00:10             SUCCESS             MOFSLOPENAPI.py             GetOrderDetailByUniqueorderID request sent Successfully
+2024-03-18 10:02:28             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 10:02:29             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 10:02:29             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 10:02:29             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 10:02:29             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:02:31             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:02:31             ERROR             MOFSLOPENAPI.py             Invalid TOTP Value | Please Provide Correct TOTP
+2024-03-18 10:06:16             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 10:06:17             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 10:06:17             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 10:06:17             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 10:06:17             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:06:20             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:06:20             ERROR             MOFSLOPENAPI.py             Invalid TOTP Value | Please Provide Correct TOTP
+2024-03-18 10:06:57             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 10:06:57             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 10:06:58             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 10:06:58             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 10:06:58             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:07:00             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:07:00             ERROR             MOFSLOPENAPI.py             Invalid TOTP Value | Please Provide Correct TOTP
+2024-03-18 10:10:00             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 10:10:00             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 10:10:01             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 10:10:01             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 10:10:01             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:10:02             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:10:02             SUCCESS             MOFSLOPENAPI.py             Login sucessfully
+2024-03-18 10:10:56             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 10:10:57             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 10:10:57             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 10:10:57             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 10:10:57             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:10:59             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:10:59             ERROR             MOFSLOPENAPI.py             Invalid TOTP Value | Please Provide Correct TOTP
+2024-03-18 10:11:14             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 10:11:14             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 10:11:15             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 10:11:15             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 10:11:15             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:11:16             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:11:16             ERROR             MOFSLOPENAPI.py             Invalid TOTP Value | Please Provide Correct TOTP
+2024-03-18 10:11:21             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 10:11:21             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 10:11:21             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 10:11:21             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 10:11:21             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:11:22             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:11:22             ERROR             MOFSLOPENAPI.py             Invalid TOTP Value | Please Provide Correct TOTP
+2024-03-18 10:11:27             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 10:11:28             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 10:11:28             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 10:11:28             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 10:11:28             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:11:29             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:11:29             ERROR             MOFSLOPENAPI.py             Invalid TOTP Value | Please Provide Correct TOTP
+2024-03-18 10:11:41             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 10:11:42             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 10:11:42             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 10:11:42             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 10:11:42             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:11:45             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:11:45             SUCCESS             MOFSLOPENAPI.py             Login sucessfully
+2024-03-18 10:11:53             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor
+2024-03-18 10:11:53             SUCCESS             MOFSLOPENAPI.py             GetManufacturerHP
+2024-03-18 10:11:53             SUCCESS             MOFSLOPENAPI.py             Initilize Constructor Done
+2024-03-18 10:11:53             SUCCESS             MOFSLOPENAPI.py             Initilize login request send
+2024-03-18 10:11:53             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:11:54             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:11:54             SUCCESS             MOFSLOPENAPI.py             Login sucessfully
+2024-03-18 10:15:01             SUCCESS             MOFSLOPENAPI.py             Initilaize GetLtp request send
+2024-03-18 10:15:01             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:15:02             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:15:02             SUCCESS             MOFSLOPENAPI.py             GetLtp request sent Successfully
+2024-03-18 10:15:02             SUCCESS             MOFSLOPENAPI.py             Initilaize GetLtp request send
+2024-03-18 10:15:02             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:15:03             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:15:03             SUCCESS             MOFSLOPENAPI.py             GetLtp request sent Successfully
+2024-03-18 10:15:03             SUCCESS             MOFSLOPENAPI.py             Initilaize PlaceOrder request send
+2024-03-18 10:15:03             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:15:04             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:15:04             SUCCESS             MOFSLOPENAPI.py             PlaceOrder request sent Successfully
+2024-03-18 10:15:04             SUCCESS             MOFSLOPENAPI.py             Initilaize GetOrderDetailByUniqueorderID request send
+2024-03-18 10:15:04             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:15:04             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:15:04             SUCCESS             MOFSLOPENAPI.py             GetOrderDetailByUniqueorderID request sent Successfully
+2024-03-18 10:15:09             SUCCESS             MOFSLOPENAPI.py             Initilaize GetOrderDetailByUniqueorderID request send
+2024-03-18 10:15:09             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:15:10             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:15:10             SUCCESS             MOFSLOPENAPI.py             GetOrderDetailByUniqueorderID request sent Successfully
+2024-03-18 10:15:10             SUCCESS             MOFSLOPENAPI.py             Initilaize PlaceOrder request send
+2024-03-18 10:15:10             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:15:10             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:15:10             SUCCESS             MOFSLOPENAPI.py             PlaceOrder request sent Successfully
+2024-03-18 10:15:11             SUCCESS             MOFSLOPENAPI.py             Initilaize GetOrderDetailByUniqueorderID request send
+2024-03-18 10:15:11             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:15:11             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:15:11             SUCCESS             MOFSLOPENAPI.py             GetOrderDetailByUniqueorderID request sent Successfully
+2024-03-18 10:15:16             SUCCESS             MOFSLOPENAPI.py             Initilaize GetOrderDetailByUniqueorderID request send
+2024-03-18 10:15:16             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:15:17             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:15:17             SUCCESS             MOFSLOPENAPI.py             GetOrderDetailByUniqueorderID request sent Successfully
+2024-03-18 10:34:21             SUCCESS             MOFSLOPENAPI.py             Initilaize GetLtp request send
+2024-03-18 10:34:21             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:34:23             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:34:23             SUCCESS             MOFSLOPENAPI.py             GetLtp request sent Successfully
+2024-03-18 10:34:23             SUCCESS             MOFSLOPENAPI.py             Initilaize GetLtp request send
+2024-03-18 10:34:23             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:34:24             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:34:24             SUCCESS             MOFSLOPENAPI.py             GetLtp request sent Successfully
+2024-03-18 10:34:24             SUCCESS             MOFSLOPENAPI.py             Initilaize PlaceOrder request send
+2024-03-18 10:34:24             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:34:24             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:34:24             SUCCESS             MOFSLOPENAPI.py             PlaceOrder request sent Successfully
+2024-03-18 10:34:24             SUCCESS             MOFSLOPENAPI.py             Initilaize GetOrderDetailByUniqueorderID request send
+2024-03-18 10:34:25             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:34:25             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:34:25             SUCCESS             MOFSLOPENAPI.py             GetOrderDetailByUniqueorderID request sent Successfully
+2024-03-18 10:34:30             SUCCESS             MOFSLOPENAPI.py             Initilaize GetOrderDetailByUniqueorderID request send
+2024-03-18 10:34:30             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:34:30             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:34:30             SUCCESS             MOFSLOPENAPI.py             GetOrderDetailByUniqueorderID request sent Successfully
+2024-03-18 10:35:08             SUCCESS             MOFSLOPENAPI.py             Initilaize GetOrderDetailByUniqueorderID request send
+2024-03-18 10:35:08             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:35:08             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:35:08             SUCCESS             MOFSLOPENAPI.py             GetOrderDetailByUniqueorderID request sent Successfully
+2024-03-18 10:57:37             SUCCESS             MOFSLOPENAPI.py             Initilaize PlaceOrder request send
+2024-03-18 10:57:37             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:57:39             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:57:39             SUCCESS             MOFSLOPENAPI.py             PlaceOrder request sent Successfully
+2024-03-18 10:58:22             SUCCESS             MOFSLOPENAPI.py             Initilaize GetOrderDetailByUniqueorderID request send
+2024-03-18 10:58:22             SUCCESS             MOFSLOPENAPI.py             Initilize Post WebRequest Sent
+2024-03-18 10:58:23             SUCCESS             MOFSLOPENAPI.py             Post WebRequest Send Successfully
+2024-03-18 10:58:23             SUCCESS             MOFSLOPENAPI.py             GetOrderDetailByUniqueorderID request sent Successfully
