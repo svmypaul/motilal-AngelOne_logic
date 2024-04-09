@@ -749,4 +749,72 @@ def fetch_lotsize(symbol, data):
     
     lots = filtered_data['Lot']
     
-    return lots
+    return lots[0]
+
+
+def moti_place_order(broker,Mofsl, smartApi, variety, Script, token, Status, exchange,ordertype, price, quantity,stoploss_price,num_retry,producttype,lotsize):
+    
+    if broker == "angelone":
+        for retry in range(num_retry) :
+            try:
+                time.sleep(0.2)
+                orderparams = {
+                    "variety": variety,
+                    "tradingsymbol": Script,
+                    "symboltoken": int(token),
+                    "transactiontype": Status,
+                    "exchange": exchange,
+                    "ordertype": ordertype,
+                    "producttype": producttype,
+                    "duration": "DAY",
+                    "price": str(float(price)/100.0),
+                    "squareoff": "0",
+                    "stoploss": 0,
+                    "quantity": str(quantity)
+                    }
+                # Method 1: Place an order and return the order ID
+                #orderid = smartApi.placeOrder(orderparams)
+                #logger.info(f"PlaceOrder : {orderid}")
+                # Method 2: Place an order and return the full response
+                response = smartApi.placeOrderFullResponse(orderparams)
+                orderid = response['data']['orderid']
+                logger.info(f"PlaceOrder : {response}")
+                break
+            except Exception as e:
+                orderid = ""
+                logger.error(f"Order placement failed: {e}")
+                time.sleep(2)
+    
+    if broker == "motilal":
+        for retry in range(num_retry) :
+            try:
+                time.sleep(0.2)
+                # PlaceOrderInfo
+                Orderinfo = {  
+                    "exchange":moti_convert_exchangeType(exchange), # NSEFO, BSEFO,BSE,NSE
+                    "symboltoken":int(token), # Exchange Scrip code or Symbol Token is unique identifier
+                    "buyorsell":Status, # BUY, SELL
+                    "ordertype":ordertype, # LIMIT, MARKET, STOPLOSS
+                    "producttype":variety, # NORMAL, DELIVERY, SELLFROMDP, VALUEPLUS, BTST,MTF
+                    "orderduration":"DAY", # DAY,GTC,GTD,IOC
+                    "price":int(float(price)/100.0), # 
+                    "triggerprice":0,
+                    "quantityinlot":int(lotsize),
+                    "disclosedquantity":0,
+                    "amoorder":"N", # Y or N
+                    "algoid":"", # Algo Id or Blank for Non-Algo Orders
+                    "tag":" " # Echo back to identify order
+                    }
+                orderinfo =  Mofsl.PlaceOrder(Orderinfo)
+                #orderinfo['status'] = moti_output_convert(orderinfo['status'])
+                print(orderinfo)
+                
+                orderid = orderinfo['uniqueorderid']
+                logger.info(f"PlaceOrder : {orderinfo}")
+                break
+            except Exception as e:
+                orderid = ""
+                logger.error(f"Order placement failed: {e}")
+                time.sleep(2)
+                
+    return orderid

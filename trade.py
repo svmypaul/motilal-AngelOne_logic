@@ -15,7 +15,7 @@ import pyotp
 import xlwings as xw
 import warnings
 from MOFSLOPENAPI import MOFSLOPENAPI
-from modul import moti_fetch_data, moti_extract_and_format_date,fetch_index_CMP,fetch_lotsize
+from modul import moti_fetch_data, moti_extract_and_format_date,fetch_index_CMP,fetch_lotsize, moti_place_order
 
 # Ignore all warnings
 warnings.filterwarnings("ignore")
@@ -470,16 +470,16 @@ while True:
                             
                             # o['netqty'] = moti_netqty(buyquantity = o['buyquantity'], sellquantity = o['sellquantity'])
                             o['netqty'] = o['buyquantity'] - o['sellquantity']
-                            o['lot'] = fetch_lotsize(symbol = o['symbol'], data = config_df)
+                            o['lot'] = fetch_lotsize(symbol = o['symbol'], data = trade_data)
                             
                             print(int(o['netqty']))
                             if int(o['netqty']) != 0:
                                 transactiontype = "SELL" if int(o['netqty']) > 0 else "BUY"
-                                logger.info(f"{smartApi}, variety = 'NORMAL', Script = {o['symboltoken']}, token = {o['symboltoken']}, Status = {transactiontype} , exchange = {o['exchange']}, ordertype = 'MARKET', price = '0', quantity = {abs(int(o['netqty']))}, stoploss_price = '0',num_retry = 5 , producttype = o['productname']")
+                                logger.info(f"{smartApi}, variety = 'NORMAL', Script = {o['symboltoken']}, token = {o['symboltoken']}, Status = {transactiontype} , exchange = {o['exchange']}, ordertype = 'MARKET', price = '0', quantity = {abs(int(o['netqty']))}, stoploss_price = '0',num_retry = 5 , producttype = {o['productname']},'lot' = {o['lot']}")
                                 
                                 
                                 
-                                can_order_id = place_order(smartApi=smartApi, variety = "NORMAL", Script = o['symboltoken'], token = o['symboltoken'], Status = transactiontype , exchange = o['exchange'], ordertype = "MARKET", price = "0", quantity = abs(int(o['netqty'])), stoploss_price = "0",num_retry = 5 , producttype = o['producttype'] ,broker = broker_name,lotsize = o['lot'],Mofsl = Mofsl)                            
+                                can_order_id = moti_place_order(smartApi=smartApi, variety = "NORMAL", Script = o['symboltoken'], token = o['symboltoken'], Status = transactiontype , exchange = o['exchange'], ordertype = "MARKET", price = 0, quantity = abs(int(o['netqty'])), stoploss_price = 0,num_retry = 5 , producttype = o['productname'] ,broker = broker_name,lotsize = o['lot'],Mofsl = Mofsl)                            
                                 
                                 
                                 order_details = get_order_details(can_order_id, smartApi,Mofsl,broker_name)
@@ -714,7 +714,7 @@ price = str(int(stoploss_price)), quantity = quantity,triggerprice = str(int(sto
                                     add_row = {"date":date,"Trade_id":f"{next_put_trade_row['symbol'].iloc[0]}_put_1","name":name,"trade_type":"normal_sell","token":str(next_put_trade_row['token'].iloc[0]),"time":current_time,"exchange":exch_seg,
 "tradingsymbol":next_put_trade_row['symbol'].iloc[0],"quantity":quantity,"strike_price": prev_put_strik+(3*gap),
 "market_price":float(next_o_put_CMP)/100.0,"trigger_price": float(next_o_put_CMP)/100.0,"num_sl_hits":1,"status":order_details['orderstatus'],
-"trns_id":next_put_trns_id,"gap":gap,"expiry_date":expiry_date,"unique_order_id":order_details['uniqueorderid'],"text":order_details['text'],'producttype':producttype}
+"trns_id":next_put_trns_id,"gap":gap,"expiry_date":expiry_date,"unique_order_id":order_details['uniqueorderid'],"text":order_details['text'],'producttype':producttype,'lot':lot}
                                     
                                     trade_df = add_row_to_dataframe(trade_df, add_row)
                                     
@@ -729,7 +729,7 @@ price = str(int(stoploss_price)), quantity = quantity,triggerprice = str(int(sto
                                         order_details = get_order_details_v2(next_sl_trns_id, smartApi,Mofsl,broker_name)
                                         add_row = {"date":date,"Trade_id":f"{next_put_trade_row['symbol'].iloc[0]}_sl_put_1","name":name,"trade_type":"stoploss_buy","token":str(next_put_trade_row['token'].iloc[0]),"time":current_time,"exchange":exch_seg,
 "tradingsymbol":next_put_trade_row['symbol'].iloc[0],"quantity":quantity,"strike_price": prev_put_strik+(3*gap),
-"market_price":(float(stoploss_price))/100.0,"trigger_price": float(str(int(stoploss_price)-500))/100.0,"num_sl_hits":1,"status":order_details['orderstatus'],"trns_id":next_sl_trns_id,"gap":gap,"expiry_date":expiry_date, "unique_order_id":order_details['uniqueorderid'],"text":order_details['text'],'producttype':producttype}
+"market_price":(float(stoploss_price))/100.0,"trigger_price": float(str(int(stoploss_price)-500))/100.0,"num_sl_hits":1,"status":order_details['orderstatus'],"trns_id":next_sl_trns_id,"gap":gap,"expiry_date":expiry_date, "unique_order_id":order_details['uniqueorderid'],"text":order_details['text'],'producttype':producttype,'lot':lot}
                                         
                                         trade_df = add_row_to_dataframe(trade_df, add_row)
                                         

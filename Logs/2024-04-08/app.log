@@ -1,0 +1,23 @@
+[I 240408 12:24:36 trade:64] Smart-api login Successful
+[I 240408 12:24:37 trade:138] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240408 12:25:02 modul:47] on open
+[I 240408 12:25:02 modul:37] Last Traded Price: 1092355
+[I 240408 12:25:05 modul:399] PlaceOrder : {'status': 'ERROR', 'message': 'Oops Sorry! Request Cannot Be Processed Due To Insuffficient Margin', 'errorcode': '100018', 'uniqueorderid': '0800001ANKN0040'}
+[W 240408 12:25:05 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240408 12:26:24 trade:64] Smart-api login Successful
+[I 240408 12:26:26 trade:138] Motilal login: SUCCESS Message: Return Auth Token SUCCESS
+[I 240408 12:30:00 modul:47] on open
+[I 240408 12:30:00 modul:37] Last Traded Price: 1092500
+[I 240408 12:30:03 modul:399] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0800014ANKN1226'}
+[W 240408 12:30:03 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240408 12:30:10 modul:399] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0800015ANKN1226'}
+[W 240408 12:30:11 modul:296] Get details failed: 'NoneType' object is not subscriptable
+[I 240408 12:30:17 modul:468] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0800016ANKN1226'}
+[I 240408 12:30:17 trade:356] price: 3680 and  tigger price: 3180
+[W 240408 12:30:18 modul:333] Get details failed: 'NoneType' object is not subscriptable
+[I 240408 12:30:25 modul:468] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0800017ANKN1226'}
+[I 240408 12:30:25 trade:370] price: 3680 and  tigger price: 3180
+[W 240408 12:30:25 modul:333] Get details failed: 'NoneType' object is not subscriptable
+[I 240408 12:38:47 1967143536:3] <SmartApi.smartConnect.SmartConnect object at 0x0000024D7D093130>, variety = 'NORMAL', Script = 40976, token = 40976, Status = BUY , exchange = NSEFO, ordertype = 'MARKET', price = '0', quantity = 75, stoploss_price = '0',num_retry = 5 , producttype = NORMAL,'lot' = 1
+[I 240408 12:38:48 modul:813] PlaceOrder : {'status': 'SUCCESS', 'message': 'Order Placed Successfully', 'errorcode': '', 'uniqueorderid': '0800018ANKN1226'}
+[W 240408 12:38:49 modul:296] Get details failed: 'NoneType' object is not subscriptable
